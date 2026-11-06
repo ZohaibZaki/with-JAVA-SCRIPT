@@ -1,0 +1,24 @@
+/* h1{
+    background-color: black ;
+    color: white;
+}
+
+ .major{
+    background-color: chocolate;
+    column-rule-color: blue;
+}
+#first_heading{
+    background-color: cyan;
+    column-rule-color: wheat;
+
+}  */
+.box{
+    
+    width: 50px;
+    height: 50px;
+    padding: 20px;
+    border: 2px dotted black;
+    margin: 30px;
+    background-color: wheat;
+
+}

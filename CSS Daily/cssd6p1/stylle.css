@@ -1,0 +1,36 @@
+h1{
+    color: rgb(0,0, 255,1);
+    text-align: center;
+ }
+/* #box{
+    height: 300px;
+    width: 300px;
+    background-image: url(https://media.istockphoto.com/id/485371557/photo/twilight-at-spirit-island.jpg?s=612x612&w=0&k=20&c=FSGliJ4EKFP70Yjpzso0HfRR4WwflC6GKfl4F3Hj7fk=);
+    background-size: cover;
+    margin: 0 auto;
+     opacity: 0.9;
+    box-shadow: rgba(255, 10,10, 0.7) -5px -5px 5px ;
+    background-repeat: no-repeat;
+      */
+
+#box{
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    background-color: chocolate;
+    transition: 
+    transform 2s linear,
+    margin 2s linear,
+    border-radius 2s linear;;
+}
+#box:hover{
+    transform: scale(0.5) rotate(45deg) skew(30deg) translatey(20px);
+    border-radius: 50%;
+}
+
+
+
+
+
+
+

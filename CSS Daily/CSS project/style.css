@@ -1,0 +1,20 @@
+#contact_container{
+    width: 100vw;
+    height: 20px;
+    background-color:blue;
+    
+}
+#contact_margin{
+    height: 100%;
+    width: 65%;
+    margin: 0 auto;
+    background-color: blue;
+    display: flex;
+    
+    
+}
+#contact_no_mail{
+    display: flex;
+    ;
+    
+}
